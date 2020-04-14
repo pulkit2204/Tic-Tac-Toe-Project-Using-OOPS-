@@ -1,2 +1,2 @@
-# C-Project
+#Project
 I will be creating variety of projects using c++ and c language.
