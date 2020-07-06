@@ -15,7 +15,7 @@ void board();
 cout<<"ILCOME TO THE GAME"<<endl;
 cout<<"MENU"<<endl;
 cout<<"1.Playing guide"<<endl;
-cout<<"2.Play game"<<endl;
+cout<<"2.Play games"<<endl;
 cout<<"3.exit"<<endl;
 cout<<"ENTER Ymy OPTION";
 cin>>ch;
